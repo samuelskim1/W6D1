@@ -105,3 +105,9 @@ aside {
   background-color: aqua;
   width: 180px;
 }
+
+aside, section {
+  background-color: bisque;
+  display: inline;
+  /* margin-right: 15px; */
+}
